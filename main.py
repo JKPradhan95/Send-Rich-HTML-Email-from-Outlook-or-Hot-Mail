@@ -15,3 +15,4 @@ server.starttls()
 server.login(sender,password)
 server.sendmail(sender, receiver, message)
 server.quit()
+
